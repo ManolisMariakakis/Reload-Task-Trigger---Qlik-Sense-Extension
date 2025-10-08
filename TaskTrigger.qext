@@ -1,0 +1,9 @@
+{
+  "name": "Reload Task Trigger",
+  "version": "1.0.0",
+  "type": "visualization",
+  "description": "Start and monitor up to two QMC reload tasks from a Qlik Sense sheet",
+  "author": "Your Name",
+  "icon": "extension",
+  "preview": "preview.png"
+}
