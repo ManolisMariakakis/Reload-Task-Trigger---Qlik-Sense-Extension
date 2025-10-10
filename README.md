@@ -35,6 +35,7 @@
 TaskTrigger/
 ├─ TaskTrigger.js
 ├─ TaskTrigger.qext
+├─ wbfolder.wbl
 └─ preview.png   (optional)
 ```
 
